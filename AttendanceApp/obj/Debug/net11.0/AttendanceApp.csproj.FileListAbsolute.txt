@@ -1,0 +1,16 @@
+C:\Users\Adil\Desktop\As4IFP\AttendanceApp\bin\Debug\net11.0\AttendanceApp.exe
+C:\Users\Adil\Desktop\As4IFP\AttendanceApp\bin\Debug\net11.0\AttendanceApp.deps.json
+C:\Users\Adil\Desktop\As4IFP\AttendanceApp\bin\Debug\net11.0\AttendanceApp.runtimeconfig.json
+C:\Users\Adil\Desktop\As4IFP\AttendanceApp\bin\Debug\net11.0\AttendanceApp.runtimeconfig.dev.json
+C:\Users\Adil\Desktop\As4IFP\AttendanceApp\bin\Debug\net11.0\AttendanceApp.dll
+C:\Users\Adil\Desktop\As4IFP\AttendanceApp\bin\Debug\net11.0\AttendanceApp.pdb
+C:\Users\Adil\Desktop\As4IFP\AttendanceApp\obj\Debug\net11.0\AttendanceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adil\Desktop\As4IFP\AttendanceApp\obj\Debug\net11.0\AttendanceApp.AssemblyInfoInputs.cache
+C:\Users\Adil\Desktop\As4IFP\AttendanceApp\obj\Debug\net11.0\AttendanceApp.AssemblyInfo.cs
+C:\Users\Adil\Desktop\As4IFP\AttendanceApp\obj\Debug\net11.0\AttendanceApp.csproj.CoreCompileInputs.cache
+C:\Users\Adil\Desktop\As4IFP\AttendanceApp\obj\Debug\net11.0\AttendanceApp.dll
+C:\Users\Adil\Desktop\As4IFP\AttendanceApp\obj\Debug\net11.0\refint\AttendanceApp.dll
+C:\Users\Adil\Desktop\As4IFP\AttendanceApp\obj\Debug\net11.0\AttendanceApp.pdb
+C:\Users\Adil\Desktop\As4IFP\AttendanceApp\obj\Debug\net11.0\AttendanceApp.genruntimeconfig.cache
+C:\Users\Adil\Desktop\As4IFP\AttendanceApp\obj\Debug\net11.0\ref\AttendanceApp.dll
+C:\Users\Adil\Desktop\As4IFP\AttendanceApp\obj\Debug\net11.0\Attendan.AE10E602.Up2Date

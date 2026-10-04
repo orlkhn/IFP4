@@ -1,0 +1,1 @@
+public sealed record AttendanceEntry(string Name, DateTime CheckInTime);

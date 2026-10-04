@@ -1,0 +1,10 @@
+[
+  {
+    "Name": "Alice",
+    "CheckInTime": "2026-10-04T09:00:00Z"
+  },
+  {
+    "Name": "Bob, Jr.",
+    "CheckInTime": "2026-10-04T09:05:00Z"
+  }
+]
